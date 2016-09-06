@@ -1,0 +1,1 @@
+{"C:\\avinash\\node\\gulp\\gulp4_concat\\gulpfile.js":{"sha1":"e438c93e1d491c682d2761409d3a460a234b27f0","tasks":{"css":{"name":"css","dependencies":""},"default":{"name":"default","dependencies":"css"}}}}
