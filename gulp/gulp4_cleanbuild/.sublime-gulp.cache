@@ -1,1 +1,0 @@
-{"C:\\avinash\\node\\gulp\\gulp4_cleanbuild\\gulpfile.js":{"sha1":"c0a002699a1fc7dbedcb794c43da4da4663c92b2","tasks":{"clean":{"name":"clean","dependencies":""},"build":{"name":"build","dependencies":""},"default":{"name":"default","dependencies":"clean build"}}}}
