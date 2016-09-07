@@ -1,0 +1,19 @@
+{
+  "name": "gulp4_loggergzip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-gzip": "^1.4.0",
+    "gulp-logger": "0.0.2",
+    "gulp-tar": "^1.9.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}
