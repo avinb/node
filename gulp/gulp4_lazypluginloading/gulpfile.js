@@ -15,6 +15,6 @@ gulp.task('css:sass', function () {
 }); 
 
 gulp.task('default', ['css:sass','css:less'], function () {
-	console.log("this is the message"); 
+	console.log("this is the message "); 
 	return plugins.util.log('Gulp is running!')
 });
