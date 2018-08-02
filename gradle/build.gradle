@@ -1,0 +1,43 @@
+
+apply plugin: 'java'
+task emailMe  << {
+   
+     println 'SEND EMAIL ANNOUNCING SUCCESS'
+}
+
+task hello
+
+
+hello    << {
+println 'hello, world'
+}
+
+hello    << {
+println 'hello, india'
+}
+task echoMyPath << {
+println "THIS TASK'S PATH IS ${path}"
+}
+
+
+task initializeDatabase
+initializeDatabase << { println 'connect to database' }
+initializeDatabase << { println 'update database schema' }
+initializeDatabase { println 'configuring database connection' 
+
+println 'I am running in Confiugration phase'
+}
+
+initializeDatabase { println 'More DB configurations to make in Configuration phase '
+}
+
+
+
+
+task copyFiles (type:Copy) {
+
+	from 'resources'
+	into 'target'
+	includ '**/*.xml',  '**/*.txt' , '**/*.properties'
+
+}

@@ -1,5 +1,5 @@
 {
-  "name": "gulp4_concat",
+  "name": "gulp4_logger",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,9 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "gulp": "^3.9.1",
-    "gulp-concat": "^2.6.0",
-    "gulp-order": "^1.1.1"
+    "gulp-logger": "0.0.2",
+    "gulp-sass": "^2.3.2"
   }
 }

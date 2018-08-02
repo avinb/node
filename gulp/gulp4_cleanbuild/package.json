@@ -1,5 +1,5 @@
 {
-  "name": "gulp4_concat",
+  "name": "gulp4_cleanbuild",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,9 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-concat": "^2.6.0",
-    "gulp-order": "^1.1.1"
+  "dependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1"
   }
 }

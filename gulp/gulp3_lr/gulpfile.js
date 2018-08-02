@@ -57,8 +57,8 @@ gulp.task('connect', function () {
 	connect.server ( { 
 	root : './',
 	livereload:true ,
-	port:2392,
-	https:true
+	port:2392
+//	https:true
 	});
 
 });

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - UK]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - UK</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 27 Sep 2016 13:44:54 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Alton Towers operator Merlin fined £5m over Smiler crash]]></title>
+            <description><![CDATA[Alton Towers operator Merlin Attractions is fined £5m over the Smiler rollercoaster crash.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-stoke-staffordshire-37481825</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-stoke-staffordshire-37481825</guid>
+            <pubDate>Tue, 27 Sep 2016 12:26:14 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/EB9F/production/_91391306_court.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sam Allardyce: England manager allegations investigated by FA]]></title>
+            <description><![CDATA[The FA is investigating claims England boss Sam Allardyce used his role to negotiate a £400,000 deal and offer advice on how to bypass transfer rules.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/37479135</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/37479135</guid>
+            <pubDate>Tue, 27 Sep 2016 08:28:03 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/6AA2/production/_91389272_sam_allardyce_getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sir Terry Wogan: Stars pay tribute at Westminster Abbey]]></title>
+            <description><![CDATA[Stars including Chris Evans, Joanna Lumley and Peter Gabriel pay tribute at a celebratory memorial service for Sir Terry Wogan.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-37477934</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-37477934</guid>
+            <pubDate>Tue, 27 Sep 2016 13:19:11 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D4C5/production/_91396445_wogancomposite.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ben Needham: 'Slight interest' in fabric found in Kos search]]></title>
+            <description><![CDATA[Police searching for missing toddler Ben Needham on the Greek island of Kos find pieces of fabric "of slight interest" on land close to where he was last seen.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-south-yorkshire-37482793</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-south-yorkshire-37482793</guid>
+            <pubDate>Tue, 27 Sep 2016 12:13:27 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/8619/production/_91392343_035531813.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Decision to drop Cliff Richard case upheld by CPS]]></title>
+            <description><![CDATA[The decision not to prosecute Sir Cliff Richard over claims of historical sex offences is upheld by the Crown Prosecution Service.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-37484677</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-37484677</guid>
+            <pubDate>Tue, 27 Sep 2016 11:53:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6BC3/production/_90978572_mediaitem90978571.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[William and Kate visit remote rainforest community]]></title>
+            <description><![CDATA[The Duke and Duchess of Cambridge are welcomed to a remote rainforest community on day three of their tour of western Canada.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-37481440</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-37481440</guid>
+            <pubDate>Tue, 27 Sep 2016 09:52:38 GMT</pubDate>
+            <media:thumbnail width="903" height="508" url="http://c.files.bbci.co.uk/DA65/production/_91390955_5bb1ca13-3621-47ed-8a4f-afa936a0b194.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man, 78, held over 1965 murder of schoolgirl Elsie Frost]]></title>
+            <description><![CDATA[A man in his 70s has been arrested on suspicion of murdering schoolgirl Elsie Frost in Wakefield more than 50 years ago.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-37484900</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-37484900</guid>
+            <pubDate>Tue, 27 Sep 2016 12:07:35 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/169E9/production/_91394629_elsie_frost_bbc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Michael Fallon: UK will oppose plans for EU army]]></title>
+            <description><![CDATA[The UK will oppose any attempts to create an EU army because it could "undermine" the role of Nato, Defence Secretary Sir Michael Fallon says.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-37482942</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-37482942</guid>
+            <pubDate>Tue, 27 Sep 2016 09:28:32 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/397F/production/_91391741_035544587-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[First US shale gas arrives at Ineos plant in Scotland]]></title>
+            <description><![CDATA[The first shipment of US shale gas is arriving in Scotland amid fierce debate about the future of fracking in the UK.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-37474396</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-37474396</guid>
+            <pubDate>Tue, 27 Sep 2016 11:19:05 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/171F/production/_91391950_ineos_grangemouth.gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Labour to set out plans for early years taskforce]]></title>
+            <description><![CDATA[Labour is to launch a taskforce to "transform early years provision" for all families while London Mayor Sadiq Khan tells the party it must focus on winning power.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-37475733</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-37475733</guid>
+            <pubDate>Tue, 27 Sep 2016 12:41:51 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3960/production/_91388641_mediaitem65564020.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sale of Kodi 'fully-loaded' streaming boxes faces legal test]]></title>
+            <description><![CDATA[A legal case concerning the sale of video-streaming set-top boxes on which subscription content can be accessed for free begins on Tuesday.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37474595</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37474595</guid>
+            <pubDate>Mon, 26 Sep 2016 23:04:52 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/605C/production/_91386642_think.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wales tuition fees shake-up proposed]]></title>
+            <description><![CDATA[Loans should replace tuition fee grants and there should be more help with living costs for all Welsh students, a major review of university finance says.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-37472148</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-37472148</guid>
+            <pubDate>Tue, 27 Sep 2016 12:12:22 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5A62/production/_91383132_unis1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[William and Kate visit rainforest on Canada tour]]></title>
+            <description><![CDATA[The Duke and Duchess of Cambridge visited a rainforest as part of their eight-day tour of Canada.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-37481533</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-37481533</guid>
+            <pubDate>Tue, 27 Sep 2016 09:29:41 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/05EF/production/_91391510_mediaitem91391508.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I was abandoned by my husband']]></title>
+            <description><![CDATA[Wives in South Asia are being used and abandoned by the British Asian men that marry them. "Sunita" shares her story.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-37472237</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-37472237</guid>
+            <pubDate>Mon, 26 Sep 2016 22:57:39 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/16DD0/production/_91384639_nologo3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anderson and Dornan on Series 3 of The Fall]]></title>
+            <description><![CDATA[Gillian Anderson and Jamie Dornan speak to Dan Walker about the third series of The Fall.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-37481530</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-37481530</guid>
+            <pubDate>Tue, 27 Sep 2016 07:02:43 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C165/production/_91390594_mediaitem91390591.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alton Towers operator Merlin fined £5m for Smiler crash]]></title>
+            <description><![CDATA[The owners of Alton Towers theme park have been fined a record £5m for what was described as a "needless and avoidable crash".]]></description>
+            <link>http://www.bbc.co.uk/news/uk-37481879</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-37481879</guid>
+            <pubDate>Tue, 27 Sep 2016 12:37:29 GMT</pubDate>
+            <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/1735D/production/_91396059_mediaitem91395414.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CCTV reveals moment Smiler crashed]]></title>
+            <description><![CDATA[The Health and Safety Executive has released CCTV footage of the Alton Towers Smiler ride crash.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-stoke-staffordshire-37477071</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-stoke-staffordshire-37477071</guid>
+            <pubDate>Mon, 26 Sep 2016 16:28:01 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/9D4C/production/_91386204_p0493dry.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rest: Are we getting enough of it in our lives?]]></title>
+            <description><![CDATA[The results of the world's largest ever survey on rest show that two-thirds of us would like more of it.]]></description>
+            <link>http://www.bbc.co.uk/news/health-37481875</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-37481875</guid>
+            <pubDate>Tue, 27 Sep 2016 08:07:36 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/F941/production/_91390836_mediaitem91390834.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Turner Prize exhibition: Will Gompertz's essential rundown]]></title>
+            <description><![CDATA[BBC Arts editor Will Gompertz gives an essential rundown of the Turner Prize exhibition.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-37476738</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-37476738</guid>
+            <pubDate>Mon, 26 Sep 2016 15:10:17 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/18234/production/_91386889_mediaitem91386507.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News Channel]]></title>
+            <description><![CDATA[Britain's most-watched news channel, delivering breaking news and analysis all day, every day.]]></description>
+            <link>http://www.bbc.co.uk/news/10318089</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/10318089</guid>
+            <pubDate>Wed, 16 Mar 2016 12:34:37 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://news.bbcimg.co.uk/media/images/48351000/gif/_48351569_640x360-news.gif"/>
+        </item>
+        <item>
+            <title><![CDATA['Painful erection' spiders found in family's fruit]]></title>
+            <description><![CDATA[A family home is fumigated due to an infestation of "deadly spiders" that arrived in a bunch of shop-bought bananas.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-leicestershire-37472013</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-leicestershire-37472013</guid>
+            <pubDate>Mon, 26 Sep 2016 14:13:21 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/14710/production/_91382738_mediaitem91382737.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Colossal' wasp nest found in Corby attic]]></title>
+            <description><![CDATA[A "colossal" wasp nest the size of a "barrel" with a 1.4m tunnel attached is found in an attic.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-northamptonshire-37471529</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-northamptonshire-37471529</guid>
+            <pubDate>Mon, 26 Sep 2016 11:46:22 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/157BD/production/_91379978_wasps-1000-a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper headlines: Labour's 'La-La-Land' and Big Sam probe]]></title>
+            <description><![CDATA[The pros and cons of Jeremy Corbyn's "socialist manifesto" are debated in Tuesday's papers, while the England football manager finds himself in the spotlight.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-the-papers-37479489</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-the-papers-37479489</guid>
+            <pubDate>Tue, 27 Sep 2016 03:38:26 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/163DA/production/_91389019_paperfcomp.gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Famous front doors]]></title>
+            <description><![CDATA[It's not just Harry Potter's house which had come on the market - here are some ordinary homes with extraordinary screen presence.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-london-37406707</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-london-37406707</guid>
+            <pubDate>Tue, 27 Sep 2016 00:08:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/7166/production/_91303092_youngonesflats.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In pictures]]></title>
+            <description><![CDATA[The Duke and Duchess of Cambridge are in Canada with their children, Prince George and Princess Charlotte, for a royal tour, five years after they first visited the country as newly-weds.]]></description>
+            <link>http://www.bbc.co.uk/news/in-pictures-37465978</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/in-pictures-37465978</guid>
+            <pubDate>Tue, 27 Sep 2016 11:37:02 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/166C9/production/_91394819_mediaitem91394818.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yacht or not?]]></title>
+            <description><![CDATA[Conservative MP Jake Berry has called for the Royal Yacht Britannia to be brought back into service to help the UK strike trade deals.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-37428864</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-37428864</guid>
+            <pubDate>Mon, 26 Sep 2016 23:01:21 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13348/production/_91346687_mediaitem91346685.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Disposable women]]></title>
+            <description><![CDATA[Women in South Asia are being used and abandoned by the British Asian men who marry them. Should their treatment be classed as a form of domestic violence?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-37472233</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-37472233</guid>
+            <pubDate>Mon, 26 Sep 2016 22:56:02 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5364/production/_91384312_henna2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mary's letters]]></title>
+            <description><![CDATA[Ninety-seven-year-old Mary has been writing to her friend Cathy every day for 77 years.]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-37456853</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-37456853</guid>
+            <pubDate>Mon, 26 Sep 2016 22:54:58 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13C8C/production/_91363018_mary.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Faceless London]]></title>
+            <description><![CDATA[Photographer Jim Grover spent four hours making pictures of people on London's Westminster Bridge.]]></description>
+            <link>http://www.bbc.co.uk/news/in-pictures-37471476</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/in-pictures-37471476</guid>
+            <pubDate>Mon, 26 Sep 2016 22:58:41 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/11681/production/_91379217_2.l1020067.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taking off]]></title>
+            <description><![CDATA[Kate McWilliams' employer easyJet believes the 26-year-old is their youngest commercial female airline captain.]]></description>
+            <link>http://www.bbc.co.uk/newsbeat/articles/37469713</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/newsbeat/articles/37469713</guid>
+            <pubDate>Mon, 26 Sep 2016 05:36:36 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B4C5/production/_91377264_easyjet1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Bang on trend']]></title>
+            <description><![CDATA[Prince George and Princess Charlotte's outfits are criticised as being old fashioned but one writer says they're "bang on trend".]]></description>
+            <link>http://www.bbc.co.uk/newsbeat/articles/37472253</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/newsbeat/articles/37472253</guid>
+            <pubDate>Mon, 26 Sep 2016 13:47:16 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CECA/production/_91383925_georgeandcharlotte.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Give me five]]></title>
+            <description><![CDATA[The social media campaign urging people to give their first new £5 note to charity]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-trending-37473691</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-trending-37473691</guid>
+            <pubDate>Mon, 26 Sep 2016 14:56:39 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A300/production/_91382714_pa-28622389.jpg"/>
+        </item>
+    </channel>
+</rss>
